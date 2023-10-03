@@ -86,7 +86,7 @@ namespace scene {
     //% tile.shadow=tileset_tile_picker
     //% delay.min=0 delay.max=200 delay.step=1
     //% delay.defl=0
-    //% blockNamespace="scene" group="Tiles Xtra" blockGap=8
+    //% blockNamespace="scene" group="Tile Animator" blockGap=8
     //% weight=200
     export function runTileAnimation(tile: Image, frames: Image[], frameInterval: number, order: TileAnimationOrder, delay?: number) {
 
